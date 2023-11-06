@@ -1,0 +1,3 @@
+During image pull the image can not pulled from docker because of wrong command. So I entered "docker pull nginx".
+During creat a web server the network host denied error came. So I logged in into the docker then its work.
+sometimes spelling mistecks happened so recheck and enter the command.
